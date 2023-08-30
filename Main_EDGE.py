@@ -35,5 +35,6 @@ for index, value in enumerate(elements):
 
 driver.close()
 
+exit()
 
 
