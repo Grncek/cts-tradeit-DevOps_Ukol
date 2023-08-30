@@ -1,0 +1,1 @@
+# cts-tradeit-DevOps_Ukol
