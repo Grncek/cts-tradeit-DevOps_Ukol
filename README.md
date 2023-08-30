@@ -8,6 +8,6 @@ Before executing Main_EDGE:
 Before executing Main_CHROME:
 1) The script utilize Selenium library so you must install Selenium: pip install selenium
 2) Selenium does not work without driver so its essential to put your drive in path "C:\Program Files (x86)\chromedriver"
-3) Download ChromeDriver here: https://sites.google.com/chromium.org/driver/downloads?authuser=0
-   if you have newer version of Chrome here: https://googlechromelabs.github.io/chrome-for-testing/
+3) Download ChromeDriver: https://sites.google.com/chromium.org/driver/downloads?authuser=0
+4) If you've got newer version of Chrome: https://googlechromelabs.github.io/chrome-for-testing/
 
